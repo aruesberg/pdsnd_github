@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
-
+11-17-2020
 ### Project Title
-Replace the Project Title
+bikeshare project
 
 ### Description
-Describe what your project is about and what it does
-
+This is the bikeshare project from the python part of the programming for Data Science nano degree
+contains the program but not the data csv files
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* pandas api reference - https://pandas.pydata.org/docs/reference/index.html
+* W3School Python tutoriak - https://www.w3schools.com/python/default.asp
