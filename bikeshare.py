@@ -88,6 +88,7 @@ def load_data(city, month, day):
     
 
 def display_data(df):
+    """Display data for selected city, month and day of week"""
     view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
     start_loc = 0
 
