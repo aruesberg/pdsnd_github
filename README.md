@@ -5,7 +5,8 @@ bikeshare project
 
 ### Description
 This is the bikeshare project from the python part of the programming for Data Science nano degree
-contains the program but not the data csv files
+contains the program but not the data csv files.
+
 ### Files used
 bikeshare.py
 
