@@ -13,3 +13,4 @@ bikeshare.py
 ### Credits
 * pandas api reference - https://pandas.pydata.org/docs/reference/index.html
 * W3School Python tutoriak - https://www.w3schools.com/python/default.asp
+* https://www.git-scm.com/book/de/v2/Git-Branching-Branches-auf-einen-Blick
